@@ -6,5 +6,9 @@ target 'BinarTest' do
   use_frameworks!
 
   # Pods for BinarTest
+  pod 'Firebase/Core’
+  pod 'Firebase/Auth’
+  pod 'RealmSwift'
+  pod 'SwiftKeychainWrapper', '~> 3.0'
 
 end

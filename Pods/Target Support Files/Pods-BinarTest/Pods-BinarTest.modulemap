@@ -1,0 +1,6 @@
+framework module Pods_BinarTest {
+  umbrella header "Pods-BinarTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
